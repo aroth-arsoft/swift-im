@@ -1,3 +1,9 @@
+swift-im (2.0+dev6-1.1~aroth~ppa1) trusty; urgency=medium
+
+  * fixed trouble when boost version 1.55 is installed
+
+ -- Andreas Roth <aroth@arsoft-online.com>  Sat, 26 Apr 2014 16:41:22 +0200
+
 swift-im (2.0+dev6-1) unstable; urgency=low
 
   * Update from upstream.
